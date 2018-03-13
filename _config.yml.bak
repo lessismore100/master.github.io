@@ -80,9 +80,3 @@ deploy:
   type: git
   repo: http://github.com/steveLYL/steveLYL.github.io.git
   branch: master
-
-# Extensions
-## Plugins: http://hexo.io/plugins/
-#RSS¶©ÔÄ
-plugin:
-- hexo-generator-feed

@@ -79,4 +79,24 @@ theme: landscape
 deploy:
   type: git
   repo: http://github.com/steveLYL/steveLYL.github.io.git
-  branch: hexosource
+  branch: master
+  
+# RSS¶©ÔÄÖ§³Ö
+plugin:
+- hexo-generator-feed
+
+# Feed Atom
+feed:
+type: atom
+path: atom.xml
+limit: 20
+
+# Social links
+social:
+  GitHub: https://github.com/steveLYL
+
+# Social Icons
+social_icons:
+  enable: true
+  # Icon Mappings
+  GitHub: github

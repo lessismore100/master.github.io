@@ -81,6 +81,12 @@ deploy:
   repo: http://github.com/steveLYL/steveLYL.github.io.git
   branch: master
 <<<<<<< HEAD
+
+# Extensions
+## Plugins: http://hexo.io/plugins/
+#RSS¶©ÔÄ
+plugin:
+- hexo-generator-feed
 =======
   
 # RSS¶©ÔÄÖ§³Ö
@@ -102,4 +108,10 @@ social_icons:
   enable: true
   # Icon Mappings
   GitHub: github
+
+# title
+links_title: Links
+links:
+  master: http://master8687.cn/
+  apache: http://apache.org/
 >>>>>>> master

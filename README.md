@@ -6,4 +6,4 @@
 
 
 ----------------------------
-[blogwebsite]:master8687.cn
+[blogwebsite]:http://master8687.cn

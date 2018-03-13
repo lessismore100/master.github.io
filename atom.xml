@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>master8687</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://master8687.com/"/>
+  <updated>2018-03-13T02:01:51.333Z</updated>
+  <id>http://master8687.com/</id>
+  
+  <author>
+    <name>steve Li</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>feature</title>
+    <link href="http://master8687.com/2018/03/12/feature/"/>
+    <id>http://master8687.com/2018/03/12/feature/</id>
+    <published>2018-03-12T10:16:30.000Z</published>
+    <updated>2018-03-13T02:01:51.333Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年</p><h3 id="教育、心理、Kotlin、python、论语、道德经"><a href="#教育、心理、Kotlin、python、论语、道德经" class="headerlink" title="教育、心理、Kotlin、python、论语、道德经"></a>教育、心理、Kotlin、python、论语、道德经</h3><hr><h4 id="Psychology"><a href="#Psychology" class="headerlink" title="Psychology"></a>Psychology</h4><p>Psychology and life<br>心理学爱好者 psychicist<br>社会心理学 Social Psychology<br>临床心理学 Clinical Psychology<br>积极心理学 Positive Psychology<br>管理心理学 Managerial Psychology<br>人本主义心理学 Humanistic Psychology<br>演化心理学 evolutionary psychology<br>犯罪心理学 criminal psychology<br>学校心理学 School Psychology<br>社区心理学 Community Psychology  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2018年&lt;/p&gt;
+&lt;h3 id=&quot;教育、心理、Kotlin、python、论语、道德经&quot;&gt;&lt;a href=&quot;#教育、心理、Kotlin、python、论语、道德经&quot; class=&quot;headerlink&quot; title=&quot;教育、心理、Kotlin、python、论语、道德经&quot;
+      
+    
+    </summary>
+    
+      <category term="psychology" scheme="http://master8687.com/categories/psychology/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>new-post</title>
+    <link href="http://master8687.com/2018/03/12/new-post/"/>
+    <id>http://master8687.com/2018/03/12/new-post/</id>
+    <published>2018-03-12T09:15:51.000Z</published>
+    <updated>2018-03-13T03:13:10.058Z</updated>
+    
+    <content type="html"><![CDATA[<p>1,<br>2,<br>3,<br>4,<br>5,<br>6,</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1,&lt;br&gt;2,&lt;br&gt;3,&lt;br&gt;4,&lt;br&gt;5,&lt;br&gt;6,&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="2018" scheme="http://master8687.com/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://master8687.com/2018/03/12/hello-world/"/>
+    <id>http://master8687.com/2018/03/12/hello-world/</id>
+    <published>2018-03-12T09:11:58.084Z</published>
+    <updated>2018-03-12T09:11:58.084Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

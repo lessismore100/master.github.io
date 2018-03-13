@@ -1,0 +1,15 @@
+<% if (site.data.links){ %>
+  <div class="widget tag">
+    <h3 class="title">友情链接</h3>
+      <ul class="entry">
+        <% for (var i in site.data.links){ %>
+          <li class='link'><a href='<%- site.data.links[i] %>'><%= i %></a></li>
+        <% } %>
+      </ul>
+  </div>
+<% } %>
+
+作者：pengloo53
+链接：https://www.jianshu.com/p/43eb0819f51a
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

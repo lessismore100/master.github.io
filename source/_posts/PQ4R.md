@@ -1,5 +1,5 @@
 ---
-title: feature
+title: PQ4R
 date: 2018-09-13 12:16:30
 tags:
 categories: psychology

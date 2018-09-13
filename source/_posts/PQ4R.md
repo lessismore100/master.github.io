@@ -1,5 +1,5 @@
 ---
-title: PQ4R
+title: 帮助学生理解和记忆的学习技术-PQ4R
 date: 2018-09-13 12:16:30
 tags:
 categories: psychology

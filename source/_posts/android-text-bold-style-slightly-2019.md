@@ -1,3 +1,9 @@
+---
+title: android_text_bold_style_slightly_2019
+date: 2019-05-05 18:32:56
+tags:
+---
+
 `+++android粗体显示问题+++`
 
 **一段对话作为开场：**

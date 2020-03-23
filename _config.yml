@@ -6,7 +6,7 @@
 title: master8687
 subtitle:
 description:
-author: steve Li
+author: tom Li
 language: zh-CN
 timezone:
 
@@ -78,10 +78,10 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://github.com/steveLYL/steveLYL.github.io.git
+  repo: http://github.com/lessismore100/lessismore100.github.io.git
   branch: master
   
-# RSS¶©ÔÄÖ§³Ö
+# RSSÂ¶Â©Ã”Ã„Ã–Â§Â³Ã–
 plugin:
 - hexo-generator-feed
 
@@ -93,7 +93,7 @@ limit: 20
 
 # Social links
 social:
-  GitHub: https://github.com/steveLYL
+  GitHub: https://github.com/lessismore100
 
 # Social Icons
 social_icons:
